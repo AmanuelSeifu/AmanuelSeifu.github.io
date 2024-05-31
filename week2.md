@@ -4,4 +4,4 @@ title: Week 2
 by: Amanuel Seifu
 ---
 
-I did stuff this week
+To be filled out next week...
