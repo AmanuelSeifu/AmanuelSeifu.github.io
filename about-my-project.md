@@ -1,15 +1,13 @@
 ## About My Project
 
-mBot Neo
+Problem: We want to explore the ways we can train AI chatbots to accurately inform users of the trustworthiness of AI.  
 
-Problem: There is a lack of reasearch focusing on exploring ways to build educational software that integrates physical robots and physiological sensors. 
+Approach: During this project, I will be working with a team to do the following:
 
-Approach: During this project, I will assist a team in designing a system that accomplishes the following:
+  - Do research on the trustworthiness of artificial intelligence.
+  - Train 8 different chatbots to give answers from our research when asked.
+  - Test the bots to see how well they work. 
 
-  - Capture physiological data such as EEG and EMG from the human body.
-  - Process raw sensor data and classify events such as gestures (e.g., arm movements) and emotional states (e.g., attention levels)
-  - Map output from physiological sensors to a physical robot. 
-
-Expected Outcome: The project is expected to result in a conference poster presentation at the end of the DREU program. The poster will focus on the system's technical architecture.
+Expected Outcome: The project is expected to have the different chatbots give reliable information on the trustworthiness of AI.
 
 
