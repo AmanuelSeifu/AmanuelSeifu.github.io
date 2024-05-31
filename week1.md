@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Week 1
-by: Amanuel Seifu
 ---
+by: Amanuel Seifu
 
 What I accomplished:
 - During the first week, I met with my mentors to discuss the project that
