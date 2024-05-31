@@ -1,12 +1,11 @@
 ---
 layout: post
 title: Week 1
-by: Michael Adeleke
+by: Amanuel Seifu
 ---
 
-During the first week, I met with Dr. Crawford and my mentors to discuss the project 
-that I will be working on and gained an understanding of what Dr. Crawford will be looking for. 
-Dr. Crawford also explained to me what, "Physiological Computing Education", is along 
-with the differences between EEG and EMG.
+During the first week, I met with my mentors to discuss the project that
+I will be working on with my group. We also had several lectures covering
+python, numpy, scikit learn, and github in order to better prepare us.
 
 [Back](./)
